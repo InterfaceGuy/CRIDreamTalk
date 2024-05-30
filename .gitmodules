@@ -7,9 +7,6 @@
 [submodule "DomesticatedMind"]
 	path = DomesticatedMind
 	url = https://github.com/InterfaceGuy/DomesticatedMind.git
-[submodule "TaylorExpansion"]
-	path = TaylorExpansion
-	url = https://github.com/InterfaceGuy/TaylorExpansion.git
 [submodule "SpotlightVsFloodlightAwareness"]
 	path = SpotlightVsFloodlightAwareness
 	url = https://github.com/InterfaceGuy/SpotlightVsFloodlightAwareness.git
@@ -88,3 +85,6 @@
 [submodule "LiminalWebUI"]
 	path = LiminalWebUI
 	url = https://github.com/InterfaceGuy/LiminalWebUI
+[submodule "TaylorExpansion"]
+	path = TaylorExpansion
+	url = https://github.com/InterfaceGuy/TaylorExpansion
