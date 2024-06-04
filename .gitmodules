@@ -91,3 +91,6 @@
 [submodule "ManMachineNature"]
 	path = ManMachineNature
 	url = https://github.com/InterfaceGuy/ManMachineNature.git
+[submodule "LinearSystems"]
+	path = LinearSystems
+	url = https://github.com/InterfaceGuy/LinearSystems.git
