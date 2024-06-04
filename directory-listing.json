@@ -1,7 +1,10 @@
 {
+  "CRIDreamTalk.sublime-workspace": null,
   "index.html": null,
   "README.md": null,
+  "directory-listing.json": null,
   "DreamSong.canvas": null,
+  "CRIDreamTalk.sublime-project": null,
   "CivDeepCycles": {
     "CivDeepCycles.key": null,
     "CivDeepCycles.sublime-project": null,
@@ -29,6 +32,11 @@
     "TaylorExpansion.py": null,
     "TaylorExpansion.gif": null,
     "TaylorExpansion.sublime-workspace": null
+  },
+  "ManMachineNature": {
+    "README.md": null,
+    "ManMachineNature.png": null,
+    "ManMachineNature.key": null
   },
   "CivBigHistoryLens": {
     "CivBigHistoryLens.key": null,

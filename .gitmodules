@@ -88,3 +88,6 @@
 [submodule "TaylorExpansion"]
 	path = TaylorExpansion
 	url = https://github.com/InterfaceGuy/TaylorExpansion
+[submodule "ManMachineNature"]
+	path = ManMachineNature
+	url = https://github.com/InterfaceGuy/ManMachineNature.git
