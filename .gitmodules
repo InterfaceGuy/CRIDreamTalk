@@ -94,3 +94,6 @@
 [submodule "LinearSystems"]
 	path = LinearSystems
 	url = https://github.com/InterfaceGuy/LinearSystems.git
+[submodule "ComplicatedVsComplex"]
+	path = ComplicatedVsComplex
+	url = https://github.com/InterfaceGuy/ComplicatedVsComplex.git

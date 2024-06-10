@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"fb405545437efc40","x":996,"y":2972,"width":400,"height":400,"type":"file","file":"LinearSystems/README.md"},
-		{"id":"183f17dfe0296288","type":"file","file":"ManMachineNature/README.md","x":63,"y":2906,"width":400,"height":400},
+		{"id":"08863edae451f781","x":-300,"y":1679,"width":400,"height":400,"type":"file","file":"ComplicatedVsComplex/README.md"},
+		{"id":"fb405545437efc40","type":"file","file":"LinearSystems/README.md","x":996,"y":2972,"width":400,"height":400},
 		{"id":"588000aa731c569b","type":"file","file":"MeaningCrisis/README.md","x":-1900,"y":-880,"width":400,"height":500},
 		{"id":"2066ffb000d93c50","type":"file","file":"StoryOfEmergence/README.md","x":-2358,"y":-440,"width":400,"height":580},
 		{"id":"a04fbb17f270b67b","type":"file","file":"PreFigurativeSociety/README.md","x":-2358,"y":-1340,"width":400,"height":480},
@@ -30,7 +30,8 @@
 		{"id":"996e888b27ce598c","type":"file","file":"ThirdAttractor/README.md","x":2280,"y":1100,"width":840,"height":940},
 		{"id":"a118832e8fe02abe","type":"file","file":"DomesticatedMind/README.md","x":-2358,"y":1240,"width":400,"height":400},
 		{"id":"de69da84e9f7e5f9","type":"file","file":"ShadowDynamics/README.md","x":-3218,"y":2400,"width":1418,"height":800},
-		{"id":"8daa0374a9571aeb","type":"file","file":"MolochConsciousness/README.md","x":-2358,"y":1840,"width":400,"height":400}
+		{"id":"8daa0374a9571aeb","type":"file","file":"MolochConsciousness/README.md","x":-2358,"y":1840,"width":400,"height":400},
+		{"id":"183f17dfe0296288","type":"file","file":"ManMachineNature/README.md","x":-400,"y":112,"width":400,"height":466}
 	],
 	"edges":[
 		{"id":"d8d17c2e8562816a","fromNode":"d9f51165ca3141cd","fromSide":"bottom","toNode":"437e0d5ca21ea675","toSide":"top"},
