@@ -127,7 +127,9 @@
     "DepletionRejuvenationSpirals.py": null
   },
   "ExistentialFriction": {
-    "README.md": null
+    "ExistentialFriction.png": null,
+    "README.md": null,
+    "ExistentialFriction.gif": null
   },
   "LiminalWebUI": {
     "index.html": null,
@@ -212,10 +214,18 @@
   },
   "FourthTurningHardFork": {
     "index.html": null,
+    "FourthTurningHardForkFlattened.mp4": null,
+    "FourthTurningHardForkFlattened3.mp4": null,
+    "FourthTurningHardForkFlattened2.mp4": null,
+    "FourthTurningHardForkFlattened4.mp4": null,
     "README.md": null,
     "FourthTurningHardFork.sublime-project": null,
     "FourthTurningHardFork.sublime-workspace": null,
-    "DreamSong.canvas": null
+    "FourthTurningHardForkSide.mp4": null,
+    "FourthTurningHardFork.c4d": null,
+    "DreamSong.canvas": null,
+    "FourthTurningHardFork.mp4": null,
+    "FourthTurningHardFork.py": null
   },
   "Hyperobject": {
     "Hyperobject.py": null,
