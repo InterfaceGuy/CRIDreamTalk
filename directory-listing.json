@@ -121,7 +121,10 @@
     "README.md": null
   },
   "DepletionRejuvenationSpirals": {
-    "README.md": null
+    "DepletionRejuvenationSpirals.gif": null,
+    "DepletionRejuvenationSpirals.c4d": null,
+    "README.md": null,
+    "DepletionRejuvenationSpirals.py": null
   },
   "ExistentialFriction": {
     "README.md": null
@@ -129,6 +132,7 @@
   "LiminalWebUI": {
     "index.html": null,
     "LiminalWebUI.sublime-workspace": null,
+    "styles.css": null,
     "update_submodules.py": null,
     "README.md": null,
     "directory-listing.json": null,
@@ -205,6 +209,13 @@
     "MolochSpreading.gif": null,
     "MolochSpreading.key": null,
     "README.md": null
+  },
+  "FourthTurningHardFork": {
+    "index.html": null,
+    "README.md": null,
+    "FourthTurningHardFork.sublime-project": null,
+    "FourthTurningHardFork.sublime-workspace": null,
+    "DreamSong.canvas": null
   },
   "Hyperobject": {
     "Hyperobject.py": null,

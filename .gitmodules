@@ -97,3 +97,6 @@
 [submodule "ComplicatedVsComplex"]
 	path = ComplicatedVsComplex
 	url = https://github.com/InterfaceGuy/ComplicatedVsComplex.git
+[submodule "FourthTurningHardFork"]
+	path = FourthTurningHardFork
+	url = https://github.com/InterfaceGuy/FourthTurningHardFork.git
