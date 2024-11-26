@@ -27,12 +27,9 @@
 		{"id":"23842549bff79d4b","type":"file","file":"SocialPolarization/README.md","x":440,"y":-1440,"width":400,"height":400},
 		{"id":"9e67c183736b0d26","type":"file","file":"Emergence/README.md","x":-2358,"y":279,"width":400,"height":400},
 		{"id":"996e888b27ce598c","type":"file","file":"ThirdAttractor/README.md","x":2280,"y":1100,"width":840,"height":940},
-		{"id":"a118832e8fe02abe","type":"file","file":"DomesticatedMind/README.md","x":-2358,"y":1240,"width":400,"height":400},
-		{"id":"de69da84e9f7e5f9","type":"file","file":"ShadowDynamics/README.md","x":-3218,"y":2400,"width":1418,"height":800},
-		{"id":"8daa0374a9571aeb","type":"file","file":"MolochConsciousness/README.md","x":-2358,"y":1840,"width":400,"height":400},
 		{"id":"183f17dfe0296288","type":"file","file":"ManMachineNature/README.md","x":-905,"y":634,"width":400,"height":466},
 		{"id":"3c8eb31b3e292c08","type":"file","file":"TheLabyrinth/README.md","x":400,"y":1100,"width":400,"height":720},
-		{"id":"9ef066379ac59858","x":-100,"y":802,"width":400,"height":400,"type":"file","file":"FourthTurningHardFork/README.md"}
+		{"id":"9ef066379ac59858","type":"file","file":"FourthTurningHardFork/README.md","x":-100,"y":802,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d8d17c2e8562816a","fromNode":"d9f51165ca3141cd","fromSide":"bottom","toNode":"437e0d5ca21ea675","toSide":"top"},
@@ -41,8 +38,6 @@
 		{"id":"462b6b6daa95d035","fromNode":"014fe9935f43da9e","fromSide":"bottom","toNode":"bfc63fabe989e2b0","toSide":"right"},
 		{"id":"4a06cc34a6f6936c","fromNode":"a7ab7793fcf5ed98","fromSide":"bottom","toNode":"8c043904de187683","toSide":"top"},
 		{"id":"0f564f6e7288d3f5","fromNode":"4ce75a336fe6eccd","fromSide":"bottom","toNode":"9eda112dca39392d","toSide":"top"},
-		{"id":"b69a14dbf75f9bd9","fromNode":"a118832e8fe02abe","fromSide":"bottom","toNode":"8daa0374a9571aeb","toSide":"top"},
-		{"id":"e2e6548f7c53cfa3","fromNode":"8daa0374a9571aeb","fromSide":"bottom","toNode":"de69da84e9f7e5f9","toSide":"top"},
 		{"id":"86d059d1f0502b26","fromNode":"63bc94cb2cc17c02","fromSide":"bottom","toNode":"9ef066379ac59858","toSide":"top"}
 	]
 }
